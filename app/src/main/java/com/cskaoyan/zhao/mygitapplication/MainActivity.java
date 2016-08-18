@@ -20,6 +20,11 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+    //add by wdandroid
+    public void funciont1(){
 
+
+
+    }
 
 }
