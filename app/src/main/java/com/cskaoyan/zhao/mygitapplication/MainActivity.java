@@ -2,6 +2,7 @@ package com.cskaoyan.zhao.mygitapplication;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -23,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     //add by wdandroid
     public void funciont1(){
 
+        Log.i("tag","functoin1");
 
 
     }
