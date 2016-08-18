@@ -13,4 +13,16 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+
+    //add by wdandroid
+    public void funciont1(){
+
+
+
+    }
+
+
+
+
 }
